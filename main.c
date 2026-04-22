@@ -28,9 +28,9 @@ int main() {
 
     if (soucet % 2 == 0)
     {
-        printf("Soucet je lichy");
+        printf("Soucet je sudy");
     } else (
-        printf("Soucet je sudy")
+        printf("Soucet je lichy")
     );
     
     return 0;
